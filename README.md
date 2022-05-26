@@ -2,7 +2,7 @@
 
 See: [Issue](https://github.com/microsoft/TypeScript/issues/45637)
 
-Open [index.ts](./index.ts) and attempt to import this in VSCode.
+Open [index.ts](./index.ts) and attempt to import `computed` from `vue-demi` in VSCode.
 
 Nothing happens and the following output will be shown in `Log (extension Host)`:
 
