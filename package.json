@@ -1,0 +1,12 @@
+{
+  "name": "issue-typescript-auto-import-fails",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Alex Chaphiv <achaphiv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/composition-api": "^1.6.2",
+    "vue": "2",
+    "vue-demi": "^0.12.5"
+  }
+}
